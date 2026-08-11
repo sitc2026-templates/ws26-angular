@@ -65,7 +65,8 @@
           "defaultConfiguration": "development",
           "options": {
             "allowedHosts": [
-              ".skill17.com"
+              ".skill17.com",
+              ".skillsit.eu"
             ]
           }
         },
